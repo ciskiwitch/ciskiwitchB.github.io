@@ -1,2 +1,5 @@
 name: Carol Iskiwitch
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
